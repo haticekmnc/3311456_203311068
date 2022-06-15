@@ -10,7 +10,12 @@ import 'package:kasa_defteri/views/login/login_page.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+      options: FirebaseOptions(
+          apiKey: "AIzaSyB6YixyTH5G7_mmaYLck2NPw6D2NvbeKVw",
+          appId: "1:426194101211:android:3da31805aba415d2fa3dfe",
+          messagingSenderId: "",
+          projectId: "kasadefterim-7b732"));
 
   runApp(const MyApp());
 }
