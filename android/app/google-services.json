@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426194101211",
+    "project_id": "kasadefterim-7b732",
+    "storage_bucket": "kasadefterim-7b732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426194101211:android:3da31805aba415d2fa3dfe",
+        "android_client_info": {
+          "package_name": "com.example.kasa_defteri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426194101211-j2rpnsc41gmgjnh6h26pkbps4l0ppiee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6YixyTH5G7_mmaYLck2NPw6D2NvbeKVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426194101211-j2rpnsc41gmgjnh6h26pkbps4l0ppiee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
